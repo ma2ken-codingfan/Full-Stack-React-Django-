@@ -45,3 +45,15 @@ python manage.py startapp leads
 ```
 python manage.py runserver
 ```
+
+## django make model Tenplatge
+
+```
+python manage.py makemigrations
+```
+
+## django make database
+
+```
+python manage.py migrate
+```
