@@ -32,3 +32,11 @@ pip install django djangorestframework django-rest-knox
 django-admin startproject leadmanager
 
 ```
+
+## generate django app leads
+
+```
+cd leadmanager
+
+python manage.py startapp leads
+```
