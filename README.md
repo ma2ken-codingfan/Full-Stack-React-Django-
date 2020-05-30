@@ -40,3 +40,8 @@ cd leadmanager
 
 python manage.py startapp leads
 ```
+## start development server
+
+```
+python manage.py runserver
+```
