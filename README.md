@@ -2,7 +2,7 @@
 
 ## url
 
-[Yoytube tutorial Full Stack React &amp; Django](https://www.youtube.com/watch?v=Uyei2iDA4Hs&amp;list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&amp;index=1)
+[Youtube tutorial Full Stack React &amp; Django](https://www.youtube.com/watch?v=Uyei2iDA4Hs&amp;list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&amp;index=1)
 
 [django REST framework](https://www.django-rest-framework.org/)
 
